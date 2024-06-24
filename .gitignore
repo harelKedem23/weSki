@@ -1,0 +1,42 @@
+# Dependency directories
+/node_modules
+
+# Environment variables file (if applicable)
+/.env
+
+# Build output
+/build
+/dist
+
+# Logs
+/logs
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+
+# macOS specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# IDE project files
+*.iml
+
+# Compiled binary files for source packages
+*.dll
+*.exe
+*.pdb
+
+# Cache directories
+.npm
+.cache
+
+# OS or editor temp files
+*~
+
+# Backup files
+*.bak
